@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @CleveGreen
-- 👀 I’m interested in: subtraction
-- 🌱 I’m currently learning: addition
+Interested in PLTDI, cybersecurity, and formal methods
